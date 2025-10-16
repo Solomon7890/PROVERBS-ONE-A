@@ -1,0 +1,9 @@
+# PRO'VERBS Protocol Core Dependencies
+# Required for UI, HTTP requests, data structures, and AI interfaces
+streamlit
+requests
+numpy
+pandas
+plotly
+openai
+# NOTE: Add twilio, etc., if you deploy the communication system.
